@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21f682e2f1753e40990e2cb90cb9569, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  levels:
+  - map: {fileID: 908448196146579420, guid: a828a8d52bdd4314f9fd745d175b22de, type: 3}
+    moveLimit: 20
+    isCompleted: 1
+    isPlayable: 1
+  - map: {fileID: 174683428111639941, guid: 21e80521296879144ac8402f3bee4d06, type: 3}
+    moveLimit: 25
+    isCompleted: 0
+    isPlayable: 1
+  - map: {fileID: 2870696148237006093, guid: 3da099782c6d64f439f0637735476fb0, type: 3}
+    moveLimit: 25
+    isCompleted: 1
+    isPlayable: 1
+  - map: {fileID: 5470404944617154208, guid: 84d0092a6da14c24684a98eb74632d32, type: 3}
+    moveLimit: 30
+    isCompleted: 0
+    isPlayable: 1
+  - map: {fileID: 7798868730687185397, guid: 2eb26da42f66d2c43a7e10b957cc6418, type: 3}
+    moveLimit: 30
+    isCompleted: 0
+    isPlayable: 1
+  - map: {fileID: 3368193824413760018, guid: 081d43b090a165e4397b796939c37548, type: 3}
+    moveLimit: 35
+    isCompleted: 0
+    isPlayable: 1
+  - map: {fileID: 8875203674908366609, guid: 6f37ff72fd9214d4db70d7537c4dd8d1, type: 3}
+    moveLimit: 35
+    isCompleted: 0
+    isPlayable: 1
+  - map: {fileID: 1421548154884542943, guid: bf57f8bed78794b48b5f47641b5dcb96, type: 3}
+    moveLimit: 35
+    isCompleted: 0
+    isPlayable: 1
+  - map: {fileID: 6726839818314311742, guid: 00f8c19171eafc348942c62620523a7b, type: 3}
+    moveLimit: 35
+    isCompleted: 0
+    isPlayable: 1
